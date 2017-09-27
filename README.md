@@ -181,6 +181,13 @@ Hint: Any example using the JBoss 7 Camunda BPM distribution **must** use JDK 6/
 | --------------------------------------------------------|----------------------------------------------------------------------------|-------------------------|
 | [Basic Authentication](authentication/basic)            | Spring boot with embedded engine, REST API and Basic Authentication filter |  Authentication         |
 
+### Spring Boot Starter examples
+ 
+ | Name                                                    | Container                                                                  | Keywords                |
+ | --------------------------------------------------------|----------------------------------------------------------------------------|-------------------------|
+ | [Webapps](spring-boot-starter/example-war)              | Spring boot with embedded engine and Webapps                               |  Spring Boot Starter, Webapps  |
+
+
 ### Contribute!
 
   * Website: http://www.camunda.org/
