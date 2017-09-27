@@ -185,7 +185,6 @@ Hint: Any example using the JBoss 7 Camunda BPM distribution **must** use JDK 6/
  
  | Name                                                       | Container                                                                  | Keywords                |
  | --------------------------------------------------------   |----------------------------------------------------------------------------|-------------------------|
- 
  | [Plain Camunda Engine](spring-boot-starter/example-simple) | Jar                                                                        |  Spring Boot Starter           |
  | [Webapps](spring-boot-starter/example-webapp)              | Spring boot with embedded engine and Webapps                               |  Spring Boot Starter, Webapps  |
  | [Webapps EE](spring-boot-starter/example-webapp-ee)        | Spring boot with embedded engine and Webapps                               |  Spring Boot Starter, Webapps  |
